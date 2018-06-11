@@ -3,4 +3,4 @@
 
 ###### 初赛：0.781617
 ###### 复赛: 0.767256
-###### 首先通过feature.ipynb处理特征，然后在TreeModel.ipynb中用LightGBM的
+###### 首先通过feature.ipynb处理特征，然后在TreeModel.ipynb中用LightGBM的。多次尝试提高正确率未果后，仍在坚持改进特征，可惜成效不大。
